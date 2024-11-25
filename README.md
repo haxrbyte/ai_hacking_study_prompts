@@ -1,6 +1,3 @@
-
-
-```markdown
 # Expert Hacker Prompts for HTB CPTS Preparation
 
 ## Summary
@@ -384,5 +381,4 @@ Provide the analogies in a numbered list format:
 
 ```plaintext
 I am studying for the HTB CPTS exam and I need to know if I can skip the lesson I'm about to specify. To gauge if I can skip this, please quiz me in an interactive way, asking one question at a time and see if I'm knowledgeable enough based on the content I'm specifying. Ask 5 questions, and make sure they will accurately gauge if I can move on.
-```
 ```
